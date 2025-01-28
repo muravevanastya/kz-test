@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Loos Normal';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./Loos\ Latin\,\ Cyrillic\ Normal-Regular-Desktop.otf);
+}
+
+@font-face {
+  font-family: 'Loos Wide';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./Loos\ Latin\,\ Cyrillic\ Wide-Regular-Desktop.otf);
+}
